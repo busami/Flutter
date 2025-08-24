@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60734069136",
+    "project_id": "my-flutterflow-brokerage",
+    "storage_bucket": "my-flutterflow-brokerage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60734069136:android:8dad7dd13ff0b18fb1bb15",
+        "android_client_info": {
+          "package_name": "com.aldilaijan.re"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9vwnbByOVfkK7wKP6FthT4mUp8TAkxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60734069136:android:bcec9f49cabb3b9bb1bb15",
+        "android_client_info": {
+          "package_name": "com.aldilaijanre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9vwnbByOVfkK7wKP6FthT4mUp8TAkxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
