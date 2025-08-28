@@ -64,7 +64,7 @@ class _PaymentMethod01WidgetState extends State<PaymentMethod01Widget> {
             height: 44.0,
             decoration: BoxDecoration(
               color: FlutterFlowTheme.of(context).primaryBackground,
-              borderRadius: BorderRadius.circular(10.0),
+              borderRadius: BorderRadius.circular(12.0),
             ),
             child: Padding(
               padding: EdgeInsets.all(12.0),

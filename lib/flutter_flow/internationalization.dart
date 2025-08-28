@@ -6854,10 +6854,6 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'en': 'Name',
       'ar': 'اسم',
     },
-    'hc7q9cm9': {
-      'en': 'Home',
-      'ar': 'بيت',
-    },
     'q0sjdan6': {
       'en': '',
       'ar': '',
